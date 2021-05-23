@@ -1,0 +1,26 @@
+body,p,span{
+    font-family: 'Roboto Slab', serif
+}
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Rubik', sans-serif;
+}
+.grybg{
+    background: #f9fafb;
+}
+img{
+    max-width: 100%;
+}
+/*.................................. Header-section.................................. */
+.mahira-struggling{}
+.mahira-struggling h1 {
+	font-size: 36px;
+	font-weight: 600;
+}
+.mahira-struggling span {
+	font-size: 28px;
+	font-weight: 400;
+}
+.mahira-struggling-1 span {
+	font-size: 27px;
+	font-weight: 400;
+}
